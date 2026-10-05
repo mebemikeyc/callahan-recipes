@@ -1,6 +1,6 @@
 ---
 layout: post
 title: Lentil Soup
-image: /assets/images/lentil-soup.jpg
+image: /assets/images/lentil-soup.png
 ---
 Ingredients and steps here...
