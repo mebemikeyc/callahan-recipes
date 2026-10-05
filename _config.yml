@@ -1,6 +1,4 @@
-remote_theme: jekyll/minima
-plugins:
-  - jekyll-remote-theme
+theme: minima
 title: Callahan Culinary Creations
 minima:
   skin: dark
