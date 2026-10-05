@@ -3,7 +3,7 @@ plugins:
   - jekyll-remote-theme
 title: Callahan Culinary Creations
 minima:
-  skin: auto
+  skin: dark
 defaults:
   - scope:
       path: ""
