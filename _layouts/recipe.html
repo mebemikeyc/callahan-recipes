@@ -1,6 +1,24 @@
 ---
 layout: post
 ---
+{% if page.image %}
+<img class="recipe-hero" src="{{ page.image | relative_url }}" alt="{{ page.title }}">
+{% endif %}
+
+{% if page.prep_time or page.cook_time or page.servings %}
+<dl class="recipe-meta">
+  {% if page.prep_time %}
+  <div><dt>Prep</dt><dd>{{ page.prep_time }}</dd></div>
+  {% endif %}
+  {% if page.cook_time %}
+  <div><dt>Cook</dt><dd>{{ page.cook_time }}</dd></div>
+  {% endif %}
+  {% if page.servings %}
+  <div><dt>Serves</dt><dd>{{ page.servings }}</dd></div>
+  {% endif %}
+</dl>
+{% endif %}
+
 {{ content }}
 
 {% if page.tags.size > 0 %}
