@@ -1,0 +1,23 @@
+---
+---
+@import "minima";
+
+.recipe-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 1.5rem;
+}
+.recipe-card {
+  text-decoration: none;
+  color: inherit;
+}
+.recipe-card img {
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  border-radius: 6px;
+}
+.recipe-card h3 {
+  font-size: 1.05rem;
+  margin: 0.5rem 0 0;
+}
