@@ -2,6 +2,8 @@ remote_theme: minima
 plugins:
   - jekyll-remote-theme
 title: Callahan Culinary Creations
+minima:
+  skin: auto
 defaults:
   - scope:
       path: ""
