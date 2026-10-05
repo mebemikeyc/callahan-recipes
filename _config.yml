@@ -1,5 +1,5 @@
 theme: minima
-title: Callahan's Culinary Creations
+title: Callahan Culinary Creations
 defaults:
   - scope:
       path: ""
