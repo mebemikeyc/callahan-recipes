@@ -39,11 +39,17 @@ h2:target {
 }
 
 .site-footer {
-  text-align: center;
   padding: 1.5rem 0;
   font-size: 0.9rem;
   color: #777;
 }
+.footer-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.5rem 1rem;
+}
 .footer-links a {
-  margin: 0 0.6rem;
+  margin-left: 1rem;
 }

@@ -1,11 +1,11 @@
 <footer class="site-footer">
   <div class="wrapper">
-    <p>&copy; {{ site.time | date: "%Y" }} {{ site.title | escape }}</p>
-    <p class="footer-links">
+    <span class="copyright">&copy; {{ site.time | date: "%Y" }} {{ site.title | escape }}</span>
+    <nav class="footer-links">
       <a href="{{ '/search/' | relative_url }}">Search</a>
       <a href="{{ '/tags/' | relative_url }}">Tags</a>
       <a href="{{ '/feed.xml' | relative_url }}">RSS</a>
-    </p>
+    </nav>
     {% if page.url == "/" %}
     <p>Fresh recipes added regularly. Happy cooking!</p>
     {% endif %}
