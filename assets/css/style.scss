@@ -21,3 +21,19 @@
   font-size: 1.05rem;
   margin: 0.5rem 0 0;
 }
+
+.tag-list a,
+.recipe-tags a {
+  display: inline-block;
+  margin: 0 0.4rem 0.4rem 0;
+  padding: 0.15rem 0.7rem;
+  border: 1px solid #ddd;
+  border-radius: 999px;
+  font-size: 0.9rem;
+  text-decoration: none;
+}
+
+// Highlight the section you jumped to
+h2:target {
+  background: #fff8e1;
+}

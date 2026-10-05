@@ -1,0 +1,12 @@
+---
+layout: post
+---
+{{ content }}
+
+{% if page.tags.size > 0 %}
+<p class="recipe-tags">
+  {% for tag in page.tags %}
+    <a href="{{ '/tags/' | relative_url }}#{{ tag | slugify }}">{{ tag }}</a>
+  {% endfor %}
+</p>
+{% endif %}

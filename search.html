@@ -1,0 +1,45 @@
+---
+layout: default
+title: Search
+permalink: /search/
+---
+<input type="search" id="search-input" placeholder="Search recipes or ingredients..." autofocus>
+<ul id="results"></ul>
+
+<script>
+(async function () {
+  const input = document.getElementById('search-input');
+  const results = document.getElementById('results');
+  const recipes = await (await fetch('{{ "/search.json" | relative_url }}')).json();
+
+  function render(query) {
+    results.textContent = '';
+    const words = query.toLowerCase().split(/\s+/).filter(Boolean);
+    if (!words.length) return;
+
+    const matches = recipes.filter(r => {
+      const text = (r.title + ' ' + (r.tags || []).join(' ') + ' ' + r.content).toLowerCase();
+      return words.every(w => text.includes(w));
+    });
+
+    if (!matches.length) {
+      results.textContent = 'No recipes found.';
+      return;
+    }
+    matches.forEach(r => {
+      const li = document.createElement('li');
+      const a = document.createElement('a');
+      a.href = r.url;
+      a.textContent = r.title;
+      li.appendChild(a);
+      results.appendChild(li);
+    });
+  }
+
+  input.addEventListener('input', () => render(input.value));
+
+  // Support links like /search/?q=soup
+  const q = new URLSearchParams(location.search).get('q');
+  if (q) { input.value = q; render(q); }
+})();
+</script>

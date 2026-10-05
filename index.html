@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+<form action="{{ '/search/' | relative_url }}" method="get">
+  <input type="search" name="q" placeholder="Search recipes...">
+</form>
 <div class="recipe-grid">
   {% for post in site.posts limit:12 %}
   <a class="recipe-card" href="{{ post.url | relative_url }}">
