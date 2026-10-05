@@ -45,11 +45,11 @@ h2:target {
 }
 .footer-row {
   display: flex;
-  justify-content: space-between;
+  justify-content: flex-start;
   align-items: center;
   flex-wrap: wrap;
   gap: 0.5rem 1rem;
 }
 .footer-links a {
-  margin-left: 1rem;
+  margin-left: 1.5rem;
 }
