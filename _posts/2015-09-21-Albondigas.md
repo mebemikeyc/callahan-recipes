@@ -1,7 +1,7 @@
 ---
 title: Albondigas
 image: /assets/images/placeholder.png
-tags: ['Soup', 'Dad', 'Food']
+tags: [Soup, Dad]
 description: PLACEHOLDER
 ---
 This was one of my Dad's favorite soups.  It's still one of mine.  I find myself digging up the recipe every couple months, regardless of season or weather.  So, here it is.  
