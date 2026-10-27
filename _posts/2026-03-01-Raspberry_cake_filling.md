@@ -1,10 +1,10 @@
 ---
-title: Raspberry cake filling
+title: Raspberry Cake Filling
 image: /assets/images/RaspberryCream.jpg
 tags: [Dessert, Cake Filling]
 description: Delicious raspberry filling for cakes or cupcakes.
 ---
-Copied From this recipe: https://www.zoebakes.com/2018/04/22/chocolate-bundt-white-chocolate-raspberry-cream/
+Copied From this recipe: [Raspberry Cream](https://www.zoebakes.com/2018/04/22/chocolate-bundt-white-chocolate-raspberry-cream/)
 
 I sort of followed step 1.  Ran the raspberries through a strainer and added to the whipped cream / white chocolate mixture.  It came out a little tart and not very sweet,but was perfect in the sweet cake.
 
