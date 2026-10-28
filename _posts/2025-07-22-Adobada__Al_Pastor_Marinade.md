@@ -1,6 +1,6 @@
 ---
 title: Adobada / Al Pastor Marinade
-image: /assets/images/Adobada.png
+image: /assets/images/Adobada.jpg
 tags: []
 description: PLACEHOLDER
 ---
