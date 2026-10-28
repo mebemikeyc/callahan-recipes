@@ -2,7 +2,7 @@
 layout: default
 ---
 <div class="recipe-grid">
-  {% for post in site.posts limit:12 %}
+  {% for post in site.posts limit:42 %}
   <a class="recipe-card" href="{{ post.url | relative_url }}">
     {% if post.image %}
       <img src="{{ post.image | relative_url }}" alt="{{ post.title }}">
