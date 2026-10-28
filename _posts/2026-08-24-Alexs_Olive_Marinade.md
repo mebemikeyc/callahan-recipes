@@ -1,8 +1,8 @@
 ---
 title: Alex's Olive Marinade
 image: /assets/images/AlexOliveWings.png
-tags: []
-description: PLACEHOLDER
+tags: [Marinade, Guest Recipe]
+description: Alex's interesting Mediteranean seasoned olive chicken wings.
 --- 
 
 This is Alex's copycat recipe from Corner Butcher's Olive marinade (named after their dog).  I had never thought of using olives or olive oil in a marinade.  Definitely need to try it!
@@ -21,4 +21,7 @@ This is Alex's copycat recipe from Corner Butcher's Olive marinade (named after 
 * 1/4 teaspoon chili flakes
 
   
-
+## Instructions
+1. Mix all the ingredients together.
+1. Add chicken wings and toss to coat.  Give a few hours to absorb the flavors.
+1. Grill 'em up!
