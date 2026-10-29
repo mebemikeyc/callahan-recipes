@@ -7,7 +7,7 @@ description: Southwestern seasoned chicken burgers with a spicy mayo.
 
 I've been trying to eat healthier.  These chicken burgers are super tasty and lighter than the beef burgers I usually make.  It's supposed to taste Southwestern-y.  I like to top them with red onion and pickled jalapeños for some crunch.
 
-## Chicken Burgers
+## Chicken Burger Recipe
 
 
 ### Ingredients
@@ -33,9 +33,10 @@ I've been trying to eat healthier.  These chicken burgers are super tasty and l
 4. Form into patties and grill.
 
 
-## Southwestern Mayo
+## Southwestern Mayo Recipe
 
 This was a little spicy for Crystal.  Next time I might use 1/2 chipotle powder, 1/2 smoked paprika.
+UPDATE: I always end up with too much sauce to burgers.  I made a half batch with 2 tsp smoked paprika and 1 tsp of chipotle, and the spice level was more broadly acceptable.
 
 #### Ingredients
 
