@@ -1,7 +1,7 @@
 ---
 title: Copycat Chipotle Corn Salsa
 image: /assets/images/placeholder.png
-tags: []
+tags: [Mexican, Salsa, Taco Topping]
 description: PLACEHOLDER
 ---
 This is the corn salsa I originally made for my "burrito bowls", which was my first time making it.  It was quite a hit.

@@ -1,8 +1,8 @@
 ---
 title: Copycat Chipotle Pinto Beans
 image: /assets/images/placeholder.png
-tags: []
-description: PLACEHOLDER
+tags: [Mexican, Side Dish]
+description: Delicious pinto beans side dish, great for burrito bowls or Mexican side dish.
 ---
 [<img src='https://blogger.googleusercontent.com/img/a/AVvXsEio34PrCYBVjZq-JKqmE63SqTxJvIWJKAv9uuYnDyT76s-51XklXV59LruOsTohSD8VMw4PCNHCT4aSi4Qgx9xMmpDF6Dfp6baIV3u_R1VWDIgq9Wh0lCH4EGCVZoQ3zda35yw8RBIx62e4VtQ8x6tlOvesKPopAbvOHrkrZCwIdC3LnnYCYgpM' alt='' title='' width='320' height='214' />](https://blogger.googleusercontent.com/img/a/AVvXsEio34PrCYBVjZq-JKqmE63SqTxJvIWJKAv9uuYnDyT76s-51XklXV59LruOsTohSD8VMw4PCNHCT4aSi4Qgx9xMmpDF6Dfp6baIV3u_R1VWDIgq9Wh0lCH4EGCVZoQ3zda35yw8RBIx62e4VtQ8x6tlOvesKPopAbvOHrkrZCwIdC3LnnYCYgpM)  
 These are the beans I use for my "burrito bowls".  Again, totally ripped off from a website.

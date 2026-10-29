@@ -1,7 +1,7 @@
 ---
 title: Copycat Chipotle Brown Rice
 image: /assets/images/placeholder.png
-tags: []
+tags: [Mexican, Side Dish]
 description: PLACEHOLDER
 ---
   

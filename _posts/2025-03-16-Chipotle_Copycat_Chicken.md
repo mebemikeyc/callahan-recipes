@@ -1,7 +1,7 @@
 ---
 title: Chipotle Copycat Chicken
 image: /assets/images/placeholder.png
-tags: []
+tags: [Mexican, Taco Meat]
 description: PLACEHOLDER
 ---
 [<img src='https://blogger.googleusercontent.com/img/a/AVvXsEhYrGadIWVg73HY3A1B3O6MCldlK8mZRg0OMHKLOY83v5tE5gvt-vRQ3-U8xshSJirzPmBa738xJMgAdQFw2v0mLk6O1VayeDciYKLIaQF4O7z2GhZ_8gS06DMsTP-gjRF9cR7wzDtVu1AUK_eSYlg8xg64xt0m9aoRQTTAz4G9jq46pr-Mm62q' alt='' title='' width='240' height='240' />](https://blogger.googleusercontent.com/img/a/AVvXsEhYrGadIWVg73HY3A1B3O6MCldlK8mZRg0OMHKLOY83v5tE5gvt-vRQ3-U8xshSJirzPmBa738xJMgAdQFw2v0mLk6O1VayeDciYKLIaQF4O7z2GhZ_8gS06DMsTP-gjRF9cR7wzDtVu1AUK_eSYlg8xg64xt0m9aoRQTTAz4G9jq46pr-Mm62q)  
