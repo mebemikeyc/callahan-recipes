@@ -1,5 +1,5 @@
 ---
-title: "Fine for Swine" Pulled Pork and Rib Rub
+title: Fine for Swine - Pulled Pork and Rib Rub
 image: /assets/images/placeholder.png
 tags: ['BBQ', 'Dry Rub']
 description: PLACEHOLDER

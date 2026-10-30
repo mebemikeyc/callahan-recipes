@@ -1,5 +1,5 @@
 ---
-title: "Lusty Musty" (Mustard based BBQ sauce)
+title: Lusty Musty - (Mustard based BBQ sauce)
 image: /assets/images/placeholder.png
 tags: ['BBQ', 'Sauce']
 description: PLACEHOLDER
