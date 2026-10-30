@@ -1,7 +1,7 @@
 plugins:
   - jekyll-paginate
 
-paginate: 12
+paginate: 9
 paginate_path: "/page:num/"
 
 theme: minima
