@@ -1,6 +1,19 @@
 ---
 layout: default
 ---
+
+<nav class="pagination">
+{% if paginator.previous_page %}
+  <a href="{{ paginator.previous_page_path | relative_url }}">&laquo; Newer</a>
+{% endif %}
+
+<span>Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+
+{% if paginator.next_page %}
+  <a href="{{ paginator.next_page_path | relative_url }}">Older &raquo;</a>
+{% endif %}
+</nav>
+
 <div class="recipe-grid">
   {% for post in paginator.posts %}
   <a class="recipe-card" href="{{ post.url | relative_url }}">
@@ -10,16 +23,16 @@ layout: default
     <h3>{{ post.title }}</h3>
   </a>
   {% endfor %}
-
-  <nav class="pagination">
-  {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path | relative_url }}">&laquo; Newer</a>
-  {% endif %}
-
-  <span>Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
-
-  {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path | relative_url }}">Older &raquo;</a>
-  {% endif %}
-  </nav>
 </div>
+
+<nav class="pagination">
+{% if paginator.previous_page %}
+  <a href="{{ paginator.previous_page_path | relative_url }}">&laquo; Newer</a>
+{% endif %}
+
+<span>Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+
+{% if paginator.next_page %}
+  <a href="{{ paginator.next_page_path | relative_url }}">Older &raquo;</a>
+{% endif %}
+</nav>
