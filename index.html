@@ -2,7 +2,7 @@
 layout: default
 ---
 <div class="recipe-grid">
-  {% for post in paginator.posts limit:12 %}
+  {% for post in paginator.posts %}
   <a class="recipe-card" href="{{ post.url | relative_url }}">
     {% if post.image %}
       <img src="{{ post.image | relative_url }}" alt="{{ post.title }}">
