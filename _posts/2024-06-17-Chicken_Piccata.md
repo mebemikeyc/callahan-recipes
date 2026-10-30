@@ -1,7 +1,7 @@
 ---
 title: Chicken Piccata
 image: /assets/images/ChickenPiccata.jpg
-tags: [Italian, Weeknight]
+tags: [Italian, Weeknight Meal]
 description: PLACEHOLDER
 ---
 
