@@ -1,6 +1,6 @@
 ---
 title: Fine for Swine - Pulled Pork and Rib Rub
-image: /assets/images/FineForSwine.png
+image: /assets/images/FineForSwine.jpg
 tags: ['BBQ', 'Dry Rub']
 description: This is my favorite rub for ribs.  It has a nice complex flavor and not too much salt.
 ---
