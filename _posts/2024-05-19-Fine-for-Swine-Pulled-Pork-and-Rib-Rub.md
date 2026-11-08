@@ -2,7 +2,7 @@
 title: Fine for Swine - Pulled Pork and Rib Rub
 image: /assets/images/FineForSwine.png
 tags: ['BBQ', 'Dry Rub']
-description: PLACEHOLDER
+description: This is my favorite rub for ribs.  It has a nice complex flavor and not too much salt.
 ---
 This is a fairly low salt rub that I like a lot on ribs. It's good on pulled pork too.  For pork belly though, you're gonna want less salt.
 
