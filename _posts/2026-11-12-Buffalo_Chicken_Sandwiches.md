@@ -1,6 +1,6 @@
 ---
 title: Buffalo Chicken Sandwiches
-image: /assets/images/BuffaloCHickenSandwich.jpg
+image: /assets/images/BuffaloChickenSandwich.jpg
 tags: [Sandwich, Family Favorite]
 description: My perfect Buffalo chicken sandwich!
 ---
