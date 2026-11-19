@@ -2,37 +2,92 @@
 layout: default
 ---
 
-<nav class="pagination">
-{% if paginator.previous_page %}
-  <a href="{{ paginator.previous_page_path | relative_url }}">&laquo; Newer</a>
-{% endif %}
+<section class="home-hero">
+  <div class="home-hero-inner">
+    <p class="eyebrow">Good food. Great company.</p>
+    <h1>Callahan <span>Culinary</span> Creations</h1>
+    <p class="hero-copy">Family favorites, backyard BBQ, comfort food, and recipes worth sharing. From the smoker to the stovetop, pull up a chair.</p>
+    <div class="hero-actions">
+      <a class="button button-primary" href="{{ '/search/' | relative_url }}">Find a recipe</a>
+      <a class="button button-secondary" href="{{ '/tags/' | relative_url }}">Browse by tag</a>
+    </div>
+  </div>
+  <div class="hero-stamp" aria-hidden="true">
+    <span>THE</span>
+    <strong>CALLAHAN</strong>
+    <span>KITCHEN</span>
+  </div>
+</section>
 
-<span>Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+<section class="home-recipes" aria-labelledby="latest-recipes">
+  <div class="section-heading">
+    <div>
+      <p class="eyebrow">Straight from our kitchen</p>
+      <h2 id="latest-recipes">Latest recipes</h2>
+    </div>
+    <p class="section-description">Good things are always cooking.</p>
+  </div>
 
-{% if paginator.next_page %}
-  <a href="{{ paginator.next_page_path | relative_url }}">Older &raquo;</a>
-{% endif %}
-</nav>
-
-<div class="recipe-grid">
-  {% for post in paginator.posts %}
-  <a class="recipe-card" href="{{ post.url | relative_url }}">
-    {% if post.image %}
-      <img src="{{ post.image | relative_url }}" alt="{{ post.title }}">
+  <nav class="pagination" aria-label="Recipe pages">
+    {% if paginator.previous_page %}
+      <a href="{{ paginator.previous_page_path | relative_url }}">&laquo; Newer</a>
     {% endif %}
-    <h3>{{ post.title }}</h3>
-  </a>
-  {% endfor %}
-</div>
+    <span>Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+    {% if paginator.next_page %}
+      <a href="{{ paginator.next_page_path | relative_url }}">Older &raquo;</a>
+    {% endif %}
+  </nav>
 
-<nav class="pagination">
-{% if paginator.previous_page %}
-  <a href="{{ paginator.previous_page_path | relative_url }}">&laquo; Newer</a>
-{% endif %}
+  <div class="recipe-grid">
+    {% for post in paginator.posts %}
+      <article class="recipe-card">
+        <a class="recipe-card-image" href="{{ post.url | relative_url }}" aria-label="View {{ post.title | escape }}">
+          {% if post.image %}
+            <img src="{{ post.image | relative_url }}" alt="{{ post.title | escape }}" loading="lazy">
+          {% else %}
+            <div class="recipe-image-placeholder">Callahan Culinary Creations</div>
+          {% endif %}
+          <span class="image-arrow" aria-hidden="true">↗</span>
+        </a>
+        <div class="recipe-card-content">
+          <p class="recipe-card-meta">
+            {% if post.tags and post.tags.size > 0 %}
+              {{ post.tags | first }}
+            {% else %}
+              From the Callahan kitchen
+            {% endif %}
+            <span aria-hidden="true">·</span>
+            {{ post.date | date: "%b %-d, %Y" }}
+          </p>
+          <h3><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h3>
+          {% if post.description %}
+            <p class="recipe-description">{{ post.description | escape }}</p>
+          {% endif %}
+          <a class="recipe-read-more" href="{{ post.url | relative_url }}">Get the recipe <span aria-hidden="true">→</span></a>
+        </div>
+      </article>
+    {% endfor %}
+  </div>
 
-<span>Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+  <nav class="pagination pagination-bottom" aria-label="Recipe pages">
+    {% if paginator.previous_page %}
+      <a href="{{ paginator.previous_page_path | relative_url }}">&laquo; Newer</a>
+    {% endif %}
+    <span>Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+    {% if paginator.next_page %}
+      <a href="{{ paginator.next_page_path | relative_url }}">Older &raquo;</a>
+    {% endif %}
+  </nav>
+</section>
 
-{% if paginator.next_page %}
-  <a href="{{ paginator.next_page_path | relative_url }}">Older &raquo;</a>
-{% endif %}
-</nav>
+<section class="home-callout">
+  <div>
+    <p class="eyebrow">Explore the collection</p>
+    <h2>Find your next favorite.</h2>
+    <p>Search the recipe box or browse the tags to find something delicious.</p>
+  </div>
+  <div class="callout-actions">
+    <a class="button button-primary" href="{{ '/search/' | relative_url }}">Search recipes</a>
+    <a class="button button-secondary" href="{{ '/tags/' | relative_url }}">Explore tags</a>
+  </div>
+</section>
