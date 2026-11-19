@@ -2,7 +2,7 @@
 title: Adobada / Al Pastor Marinade
 image: /assets/images/Adobada.jpg
 tags: [Mexican, Taco Meat]
-description: Raw, simple salsa, great for tacos or burrito bowls.
+description: Delicious marinade for tacos, similar to al pastor.
 ---
 
 I've always loved tacos al pastor.  I used to think that using the trompo / top thing was the key, but using this marinade, grilling then simmering to make tender makes for perfect tacos.  I use this recipe as a kinda loose guideline and almost always double it.
