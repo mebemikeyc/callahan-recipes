@@ -1,5 +1,5 @@
 ---
-title: Dang Good Pie
+title: Homemade Soft Breadsticks
 image: /assets/images/Breadsticks.jpg
 tags: ['Appetizer', 'Bread']
 description: Delicious fluffy, soft breadsticks.
