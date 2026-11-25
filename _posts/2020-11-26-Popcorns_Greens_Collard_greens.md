@@ -2,9 +2,10 @@
 title: Popcorn's Greens (Collard greens)
 image: /assets/images/CollardGreens.jpg
 tags: ['BBQ', 'Side Dish', 'Popcorn']
-description: PLACEHOLDER
+description: Collard greens reminiscent of Crystal's dad, Popcorn's greens.
 ---
-  
+
+Every Thanksgiving, Crystal's dad, John, AKA Popcorn, Daddy John, brought the collard greens.  They were a huge hit, and became what everyone looked forward to most.  This is his recipe, as he described it.  When making these, it's important to listen to Otis Redding's "Sittin' on the Dock of the Bay", and whistle along.  Popcorn didn't have pulled pork on hand, so he used smoked turkey legs, ham hocks, or whatever smoked meat was available.  I make pulled pork in advance just to have some ready for Thanksgiving greens.
 
 ### Ingredients
 - 2 medium/large onions cut root to tip
