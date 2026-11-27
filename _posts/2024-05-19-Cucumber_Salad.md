@@ -2,7 +2,7 @@
 title: Cucumber Salad
 image: /assets/images/CucumberSalad.jpg
 tags: ['BBQ', 'Side Dish']
-description: Delicious 
+description: Delicious, fresh side for BBQ or summer meals
 ---
 I love this stuff with BBQ.  It's kinda like a pickle salad, and comes together real easy.  I always make at least a double batch.
 

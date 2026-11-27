@@ -2,7 +2,7 @@
 title: Chicken Piccata
 image: /assets/images/ChickenPiccata.jpg
 tags: [Italian, Weeknight Meal]
-description: PLACEHOLDER
+description: Delicious, rich, lemony chicken dish seerved over pasta
 ---
 
 ## Ingredients:
