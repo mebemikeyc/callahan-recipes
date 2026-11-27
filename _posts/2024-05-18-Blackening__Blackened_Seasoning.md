@@ -2,7 +2,7 @@
 title: Blackening / Blackened Seasoning
 image: /assets/images/BlackenedSeasoning.jpg
 tags: ['Dry Rub']
-description: PLACEHOLDER
+description: Semi spicy, not not very salty, multi-purpose dry rub
 ---
 I originally used this on "country style pork ribs", and it was amazing.  Also used it on mahi mahi for fish tacos.  It has become a favorite on chicken for nachos.  Typically I make a double batch.
 
