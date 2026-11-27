@@ -3,6 +3,7 @@ title: Al pastor adventures
 image: /assets/images/placeholder.png
 tags: []
 description: PLACEHOLDER
+published: false
 ---
 Pretty good base recipe: https://heygrillhey.com/smoked\-al\-pastor/  
 Last time I smoked a pork shoulder picnic, I cut big grooves in the meat, holding on by the bone.  Marinated for a day then put it on the smoker.  Might have overcooked, but it was delicious.  
