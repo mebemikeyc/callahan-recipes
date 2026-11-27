@@ -1,17 +1,37 @@
 ---
 title: Kara's Version of Mexican Street Corn
 image: /assets/images/placeholder.png
-tags: []
-description: PLACEHOLDER
+tags: [Mexican, Side Dish]
+description: Amazing side dish for tacos!
 ---
+
+Crystal's sister Kara brought this one day we had them over for tacos.  One time I made it, it came out very spicy, so tune the spice levels to your audience.
+
 Makes a 9"x13" pan full  
-INGREDIENTS:6 Ears of Corn2 Poblano Peppers6 Medium Jalepenos (I used a mix of red and green for color)1/2 large Red Onion (finely diced)2 limes (zested and juiced)1 clove garlic (minced or grated)2 Tablespoons Sour Cream3 Tablespoons Mayonaise1/2 cup (about) Chopped fresh Cilantro3/4 Cup Cotija cheese1/2 tsp Cumin1/2 tsp Smoked Paprika1/2 tsp Salt1/4 tsp Fresh gound Black(or I used mixed color) Peppercorns1/4 tsp Chili PowderOlive Oil for brushing.  
-  
-INSTRUCTIONS:  
-Remove husk and brush corn with the olive oil. Grill Corn and Both sets of Peppers until they have a nice even char. Let cool.  
-Once cool, remove corn from the cob into a large bowl. Dice up the roasted peppers and red onion, and add to corn.  
-Add in all powdered seasonings and give it a toss together.  
-Add in sour cream, mayo, lime juice and zest, garlic and 1/2 of the chopped cilantro. Mix all together until evenly coated.  
-Place into a 9x13 pan and spread evenly. Crumble and coat the entire top with the Cotija and sprinkle remaining Cilantro on top.  
-Refrigerate to cool, and refrigerate (if there are) any leftovers.  
-\* some add ons I noticed here and there in other recipes where, black beans, parmesaen cheese, shredded mexican cheese, and avocado.
+
+### Ingredients
+- 6 ears of corn
+- 2 poblano peppers
+- 6 medium jalepeños (I used a mix of red and green for color)
+- 1/2 large red onion (finely diced)
+- 2 limes (zested and juiced)
+- 1 clove garlic (minced or grated)
+- 2 tablespoons sour cream
+- 3 tablespoons mayonaise
+- 1/2 cup (about) chopped fresh cilantro
+- 3/4 cup cotija cheese
+- 1/2 tsp cumin
+- 1/2 tsp smoked paprika
+- 1/2 tsp salt
+- 1/4 tsp fresh ground black peppercorns (or mixed, for color)
+- 1/4 tsp chili powder
+- olive oil for brushing.  
+
+### Instructions
+1. Remove husk and brush corn with the olive oil.
+1. Grill corn and both sets of peppers until they have a nice even char. Let cool.
+1. Once cool, remove corn from the cob into a large bowl. Dice up the roasted peppers and red onion, and add to corn.
+1. Add in all powdered seasonings and give it a toss together.
+1. Add in sour cream, mayo, lime juice and zest, garlic and 1/2 of the chopped cilantro. Mix all together until evenly coated.
+1. Place into a 9x13 pan and spread evenly. Crumble and coat the entire top with the cotija and sprinkle remaining cilantro on top.
+1. Refrigerate to cool, and refrigerate (if there are) any leftovers.
