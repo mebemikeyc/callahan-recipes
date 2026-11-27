@@ -1,9 +1,12 @@
 ---
 title: Potato Leek / Broccoli Cheddar Soup
-image: /assets/images/placeholder.png
-tags: []
-description: PLACEHOLDER
+image: /assets/images/PotatoLeekBroccoliCheddarSoup.jpg
+tags: [Soup]
+description: Mashup of two of my favorite soups
 ---
+
+Broccoli cheddar and potato leek have always been two of my favorite soups.  I couldn't decide which one to make, so I merged the two.  The result was super tasty, and one of the only soups Tyler likes.
+
 ### Ingredients
 
 * 1 Stick butter
