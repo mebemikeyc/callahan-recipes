@@ -1,6 +1,6 @@
 ---
 title: Blackening / Blackened Seasoning
-image: /assets/images/placeholder.png
+image: /assets/images/BlackenedSeasoning.jpg
 tags: ['Dry Rub']
 description: PLACEHOLDER
 ---
